@@ -24,3 +24,9 @@ google_api_key:
 
 # Build settings
 markdown: kramdown
+
+plugins:
+  - jekyll-sitemap
+
+whitelist:
+  - jekyll-sitemap
