@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pragmaticx.ai/sitemap.xml
